@@ -26,7 +26,10 @@ VisTex            |  RawFooT
 
 To study the effect of texture in controlled conditions, we created two different types of virtual environment in Unity. The _Room_ environment was a 6mx6mx6m empty room designed to test the effect of textures in isolation; for each new sequence a texture was applied to the walls, floor and ceiling, as shown below:
 
-
+<p float="left">
+  <img src="https://github.com/timscargill/Invisible-Textures/blob/main/EnvRoom1.png" width="300" />
+  <img src="https://github.com/timscargill/Invisible-Textures/blob/main/EnvRoom2.png" width="300" />
+</p>
 
 The _Table_ environment was designed to replicate the more realistic scenario of an AR-assisted assembly or repair task: an 8mx8mx4m factory environment including a robotic arm and a table with a motorbike engine on it. To create each new sequence in the _Table_ environment the texture was applied to the 1.5mx1.5m table top, as shown below:
 
