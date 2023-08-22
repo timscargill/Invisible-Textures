@@ -18,7 +18,7 @@ The set of 112 textures comprises two datasets: 54 images from the [VisTex datas
 
 VisTex            |  RawFooT
 :-------------------------:|:-------------------------:
-![]([https://github.com/timscargill//blob/main/VisTex.png)  |  ![](https://github.com/timscargill/Invisible-Textures//blob/main/RawFooT.png)
+![]([https://github.com/timscargill/Invisible-Textures/blob/main/VisTex.png)  |  ![](https://github.com/timscargill/Invisible-Textures/blob/main/RawFooT.png)
 
 # Virtual Environments
 
