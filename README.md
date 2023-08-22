@@ -8,7 +8,7 @@ We perform extensive experiments on the effect of visual texture on VI-SLAM perf
 
 The motivation for Invisible Textures is the conflicting requirements of machine and human peception in AR. While complex environment textures are beneficial for device pose tracking (and therefore virtual content stability), human perception of virtual content can be impacted by textured environments. This includes background textures being visible through transparent regions of virtual content on AR headsets with optical see-through displays (e.g., the Microsoft HoloLens, Magic Leap), as shown belown:
 
-![OST-example1](https://github.com/timscargill/Invisible-Textures/OST-Example1.png)
+![OST-example1](https://github.com/timscargill/Invisible-Textures/blob/main/OST-Example1.png)
 
 # Texture Datasets
 
@@ -18,7 +18,7 @@ The set of 112 textures comprises two datasets: 54 images from the [VisTex datas
 
 VisTex            |  RawFooT
 :-------------------------:|:-------------------------:
-![]([https://github.com/timscargill/VisTex.png)  |  ![](https://github.com/timscargill/Invisible-Textures/RawFooT.png)
+![]([https://github.com/timscargill//blob/main/VisTex.png)  |  ![](https://github.com/timscargill/Invisible-Textures//blob/main/RawFooT.png)
 
 # Virtual Environments
 
