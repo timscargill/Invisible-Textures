@@ -44,10 +44,10 @@ The _Table_ environment was designed to replicate the more realistic scenario of
 To cite Invisible Textures in an academic work, please use: 
 
 ```
-@inproceedings{Invisible-Textures,
+@inproceedings{Scargill23InvisibleTextures,
   title={Invisible textures: Comparing machine and human perception of environment texture for AR},
   author={Scargill, Tim and Hadziahmetovic, Majda and Gorlatova, Maria},
-  booktitle={Proceedings of ACM Immercom '23 (co-located with ACM MobiCom '23)},
+  booktitle={Proc. ACM Immercom'23 (co-located with ACM MobiCom'23)},
   year={2023}
  }
  ```
