@@ -47,7 +47,7 @@ To cite Invisible Textures in an academic work, please use:
 @inproceedings{Invisible-Textures,
   title={Invisible textures: Comparing machine and human perception of environment texture for AR},
   author={Scargill, Tim and Hadziahmetovic, Majda and Gorlatova, Maria},
-  booktitle={To appear in Proceedings of ACM Immercom '23 (co-located with ACM MobiCom '23)},
+  booktitle={Proceedings of ACM Immercom '23 (co-located with ACM MobiCom '23)},
   year={2023}
  }
  ```
